@@ -38,7 +38,8 @@ export const narcissistic = (value: number): boolean => {
 
 ## Experience
 
-- Still no experience :(
+- React-Pizza based on Archakov's blog tutorial (https://github.com/koichi-sann/react-pizza).<br>
+  Skills(React, Hooks, Git, Redux)
 
 ## Education
 
