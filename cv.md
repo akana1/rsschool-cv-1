@@ -24,10 +24,6 @@ For last year I was working as React and Vue -developer. My desire to work as a 
 - Web development tools: Neovim, VSCode, Notepad++, Sublime Text, Kate.
 - Other: ArchLinux/Manjaro user.
 
-## Experience
-
-- Still no experience :(
-
 ## Code Example
 
 Codewars. "Does my number look big in this?" (https://www.codewars.com/kata/5287e858c6b5a9678200083c).<br>
@@ -39,6 +35,10 @@ export const narcissistic = (value: number): boolean => {
   return value.toString().split('').map((x,i,arr) => Number(x) ** arr.length).reduce((a,b) => +a + +b) === value;
 }
 ```
+
+## Experience
+
+- Still no experience :(
 
 ## Education
 
