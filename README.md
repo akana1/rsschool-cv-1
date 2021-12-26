@@ -1,1 +1,1 @@
-https://Koichi-sann.github.io/rsschool-cv/
+https://koichi-sann.github.io/rsschool-cv
