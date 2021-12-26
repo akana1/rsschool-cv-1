@@ -1,0 +1,47 @@
+/* === GENERAL === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Verdana, sans-serif;
+}
+
+.section-wrapper {
+  display: flex;
+  margin: 20px auto;
+  max-width: 980px;
+  justify-content: center;
+  align-items: center;
+  line-height: 2;
+}
+
+/* === / GENERAL === */
+
+/* === SECTION-HEADER === */
+
+.my-photo {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+i {
+  margin: 0px 15px;
+  font-size: 20px;
+}
+
+.section-header__contacts {
+  margin: 15px 35px 0;
+}
+/* === / SECTION-HEADER ===*/
+
+/* === SECTION-MAIN === */
+
+.section-main__skills-list {
+  margin-left: 35px;
+}
+
+/* === / SECTION-MAIN === */
